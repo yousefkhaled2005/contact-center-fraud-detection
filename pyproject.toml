@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "contact-center-fraud-detection"
+version = "1.0.0"
+description = "Machine Learning Predictive Analytics for Telecom Contact Centers"
+readme = "README.md"
+authors = [{ name = "Yousef Khaled", email = "youssef460249@beng.bu.edu.eg" }]
+license = { text = "MIT" }
+requires-python = ">=3.8"
